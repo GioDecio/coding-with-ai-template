@@ -10,7 +10,6 @@ This template provides a structured approach to managing coding projects where y
 - **Features**: Detailed specifications and implementation plans for each feature
 - **Fixes**: Bug fixes and issue resolutions
 - **Research**: Investigation notes and technical research
-- **Screenshots**: Visual references and UI mockups
 
 ## Quick Start
 
@@ -44,11 +43,8 @@ your-project/
     │   └── ...
     ├── fixes/                      # Bug fixes and resolutions
     │   └── github-oauth-redirect-fix.md
-    ├── research/                   # Technical research and investigations
-    │   ├── ai-integration-research.md
-    │   └── ...
-    └── screenshots/                # UI mockups and screenshots
-        ├── dashboard-ui-main.png
+    └── research/                   # Technical research and investigations
+        ├── ai-integration-research.md
         └── ...
 ```
 
@@ -69,9 +65,6 @@ your-project/
 4. **Track fixes** in the fixes directory:
    - Document bugs and their solutions
    - Create `.md` files for each fix
-
-5. **Add screenshots** for visual reference:
-   - Place UI mockups and screenshots in `context/screenshots/`
 
 ## Tips for Success
 
