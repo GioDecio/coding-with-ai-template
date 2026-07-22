@@ -14,13 +14,16 @@ This template provides a structured approach to managing coding projects where y
 
 ## Quick Start
 
-### Prerequisites
-- [cookiecutter](https://cookiecutter.readthedocs.io/) installed (`pip install cookiecutter`)
-
 ### Generate a New Project
 
 ```bash
-cookiecutter /Users/gdc_nf/projects/personal/coding_with_ai_template
+uvx cookiecutter https://github.com/your-username/coding-with-ai-template
+```
+
+Or use the local template:
+
+```bash
+uvx cookiecutter /Users/gdc_nf/projects/personal/coding_with_ai_template
 ```
 
 You'll be prompted to enter:
