@@ -20,12 +20,6 @@ This template provides a structured approach to managing coding projects where y
 uvx cookiecutter https://github.com/your-username/coding-with-ai-template
 ```
 
-Or use the local template:
-
-```bash
-uvx cookiecutter /Users/gdc_nf/projects/personal/coding_with_ai_template
-```
-
 You'll be prompted to enter:
 - **project_name**: Name of your project (e.g., "My Web App")
 - **project_slug**: URL-friendly version (auto-generated from project name)
