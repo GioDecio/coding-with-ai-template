@@ -17,7 +17,7 @@ This template provides a structured approach to managing coding projects where y
 ### Generate a New Project
 
 ```bash
-uvx cookiecutter https://github.com/your-username/coding-with-ai-template
+uvx cookiecutter https://github.com/GioDecio/coding-with-ai-template
 ```
 
 You'll be prompted to enter:
